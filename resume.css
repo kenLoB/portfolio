@@ -1,0 +1,29 @@
+body {
+  font-family: verdana;
+  background: grey;
+
+}
+header {
+  padding: 10px 0 10px 0;
+}
+ul.nav {
+  text-align: center;
+
+}
+li {
+
+  display: inline;
+  list-style-type: none;
+  margin-right: 30px;
+  letter-spacing: 0.3em;
+}
+
+div.intro {
+  width: 550px;
+  margin: 20px;
+
+
+}
+div.background {
+  margin: 30px;
+}
